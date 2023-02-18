@@ -1,4 +1,6 @@
-# Hydrophobic
+# hydrophobic®
+
+## Project definition
 
 The Hydrophobic project aims to enable autonomous industrial robots to detect and avoid water or oil puddles on their tracks and to report and mark them digitally.
 In industrial halls, autonomously driving robots are to be increasingly used, which can
@@ -9,9 +11,9 @@ Changes in the industrial hall floor such as dirt, water or even oil puddles, wh
 The latter, the absolute exclusion of a deterioration of the braking force due to water or oil on the road surface, is the goal of the hydrophobics® working group.
 For this purpose, the following methods are to be applied:
 
--By means of Deep Neural Networks (Deep Learning), water puddles shall be detected and localized in the image by the industrial robot and its camera system in a first step.
--Based on this information, the relative position and spread of the affected area to the robot will be determined.
--In a further step, an absolute position of the danger spot is to be determined on the basis of edge computing and communicated to other robots and employees.
+- By means of Deep Neural Networks (Deep Learning), water puddles shall be detected and localized in the image by the industrial robot and its camera system in a first step.
+- Based on this information, the relative position and spread of the affected area to the robot will be determined.
+- In a further step, an absolute position of the danger spot is to be determined on the basis of edge computing and communicated to other robots and employees.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -24,6 +26,6 @@ Veränderungen des Industriehallenboden wie Verschmutzungen, Wasser- oder gar Ö
 Letzteres, der absolute Ausschluss einer Verschlechterung der Bremskraft aufgrund von Wasser oder Öl auf der Fahrbahn, ist das Ziel der Arbeitsgruppe von hydrophobics®.
 Hierfür sollen folgende Methoden angewandt werden:
 
--mittels Tiefer Neuronaler Netze (Deep Learning), sollen in einem ersten Schritt Wasser-Pfützen durch den Industrieroboter und dessen Kamerasystem im Bild detektiert und lokalisiert werden können.
--Auf Basis dieser Informationen soll die relative Position und Ausbreitung der betroffenen Stelle zum Roboter ermittelt werden
--In einem weiteren Schritt soll auf Basis des Edge-Computings eine absolute Position der Gefahrenstelle ermittelt und weiteren Robotern sowie Mitarbeitern mitgeteilt werden.
+- mittels Tiefer Neuronaler Netze (Deep Learning), sollen in einem ersten Schritt Wasser-Pfützen durch den Industrieroboter und dessen Kamerasystem im Bild detektiert und lokalisiert werden können.
+- Auf Basis dieser Informationen soll die relative Position und Ausbreitung der betroffenen Stelle zum Roboter ermittelt werden
+- In einem weiteren Schritt soll auf Basis des Edge-Computings eine absolute Position der Gefahrenstelle ermittelt und weiteren Robotern sowie Mitarbeitern mitgeteilt werden.
