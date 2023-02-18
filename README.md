@@ -1,4 +1,4 @@
-# hydrophobic®
+# Hydrophobic
 
 ## Project definition
 
